@@ -1,5 +1,5 @@
 # eGas
-Important Link for eGas
+Important Links for eGas
 
 ::
 Website: www.egastoken.io
