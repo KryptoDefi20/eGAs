@@ -1,4 +1,4 @@
-# eGAs
+# eGas
 Important Link for eGas
 
 ::
